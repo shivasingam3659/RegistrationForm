@@ -1,0 +1,103 @@
+.bgcontainer{
+  margin: 50px;
+  border-radius: 12px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  padding-top: 15px;
+}
+
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td {
+  border: 1px solid #ffffff;
+  text-align: left;
+  padding: 8px;
+  font-size: 32px;
+}
+
+th {
+  background-color: rgb(251, 218, 218);
+
+}
+
+td {
+  background-color: rgb(221, 221, 221);
+}
+
+
+
+.input1 {
+  display: flex;
+  flex-direction: row;
+  margin-left: 300px;
+  margin-bottom: 40px;
+}
+
+.input2 {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 40px;
+  margin-left: 300px;
+}
+
+.input3 {
+  display: flex;
+  margin-left: 300px;
+  margin-bottom: 40px;
+}
+
+h1{
+  margin-bottom: 60px;
+  color:rgb(189, 135, 21);
+}
+
+input{
+  width: 350px;
+  height: 40px;
+}
+
+label{
+  margin: 12px;
+}
+
+
+form td:last-child {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+form * {
+  font-size: 28px;
+}
+
+.form2{
+  margin-left: 140px;
+}
+
+.btn1{
+  margin-bottom: 60px;
+  background-color: rgb(96, 166, 223);
+  border: 0px;
+  color:white;
+  border-radius: 12px;
+}
+
+.btn2{
+  background-color: rgb(29, 180, 49);
+  border: 0px;
+  border-radius: 12px;
+}
+
+.btn3{
+  background-color: rgb(255, 20, 20);
+  border: 0px;
+  border-radius: 12px;
+ }
+
+ .downform{
+     margin: 50px;
+ }
